@@ -12,7 +12,7 @@
 
 A website built using Next13, Framer Motion, and Tailwind CSS based off of a Figma design from One Week Wonders. Deployed through Vercel.
 
-[Explore the docs]([repo-url]) -- [View Demo]([project-url]) -- [Report Bug]([issues-url])
+[Explore the docs][repo-url] --- [View Demo][project-url] --- [Report Bug][issues-url]
 
 <!-- !! TABLE OF CONTENTS -->
 <details>
@@ -265,7 +265,6 @@ Give a ⭐️ if you like this project and if you like my work, maybe you would 
 [license-shield]: https://img.shields.io/github/license/justintsugranes/project_metaversus.svg?style=for-the-badge
 [license-url]: https://github.com/justinTsugranes/project_metaversus/blob/main/LICENSE.md
 
-<!-- TODO: UNCOMMENT USED TECH -->
 <!-- !! TECH SHIELDS/LINKS -->
 
 <!-- JS LIBRARIES / FRAMEWORKS -->
