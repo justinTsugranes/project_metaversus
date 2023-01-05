@@ -14,7 +14,7 @@ A website built using Next13, Framer Motion, and Tailwind CSS based off of a Fig
 
 [Explore the docs][repo-url] --- [View Demo][project-url] --- [Report Bug][issues-url]
 
-<!-- !! TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,13 +38,11 @@ A website built using Next13, Framer Motion, and Tailwind CSS based off of a Fig
   </ol>
 </details>
 
-<!-- !! ABOUT THE PROJECT -->
-
 ## About The Project
 
 [![Project Screen Shot][project-screenshot]][project-url] [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
-Responsive, animated landing page for a metaverse company. Project was built using Next.js 13, Tailwind, and makes heavy use of Framer Motion animations. Project was based off of a Figma design by One Week Wonders Agency
+MetaVersus is a responsive and animated landing page for a metaverse company. The project was built using Next.js 13 and Tailwind CSS, with a focus on using Framer Motion animations to bring the design to life. The project was based off of a Figma design by One Week Wonders Agency, and was designed to showcase the capabilities of a metaverse company.
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
 
