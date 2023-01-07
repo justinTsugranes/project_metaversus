@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<!-- !! PROJECT HEADING -->
+<!-- PROJECT HEADING -->
 <br />
 <div align="center">
   <a href="https://github.com/justintsugranes/">
